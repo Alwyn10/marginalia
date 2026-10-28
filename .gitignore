@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+backend/evaluation/*.pdf
