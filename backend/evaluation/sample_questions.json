@@ -1,0 +1,20 @@
+[
+  {"question": "How much does a non-resident pay for a library card?", "answer": "$40"},
+  {"question": "How many items can a teen check out at once?", "answer": "10 items"},
+  {"question": "How long can I borrow a DVD?", "answer": "7 days"},
+  {"question": "How many days can I keep a laptop?", "answer": "3 days"},
+  {"question": "What is the late fine per day for a DVD?", "answer": "$1 per day"},
+  {"question": "At what amount of unpaid fines are borrowing privileges suspended?", "answer": "$15"},
+  {"question": "What is the processing fee for a lost item?", "answer": "$3 processing fee"},
+  {"question": "How long do I have to find a lost item to get a refund?", "answer": "60 days"},
+  {"question": "What time does the main branch open on Sunday?", "answer": "1 pm to 5 pm"},
+  {"question": "How far in advance can I book a study room?", "answer": "14 days in advance"},
+  {"question": "When is a study room reservation released?", "answer": "15 minutes"},
+  {"question": "How much does color printing cost?", "answer": "50 cents"},
+  {"question": "How long is a public computer session?", "answer": "90-minute"},
+  {"question": "What is the name of the Wi-Fi network?", "answer": "NorthfieldGuest"},
+  {"question": "How many free interlibrary requests do I get each month?", "answer": "5 requests per month"},
+  {"question": "When does the Teen Book Club meet?", "answer": "first Thursday"},
+  {"question": "What is the library's phone number?", "answer": "555-0142"},
+  {"question": "Which old magazines does the library refuse as donations?", "answer": "more than 1 year old"}
+]
