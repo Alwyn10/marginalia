@@ -1,4 +1,7 @@
 # Marginalia
+![CI](https://github.com/Alwyn10/marginalia/actions/workflows/ci.yml/badge.svg)
+
+![Marginalia screenshot](screenshot-1.png)
 
 Ask questions about your own documents and get answers that **cite the exact passage** they came from.
 Upload PDFs, text or Markdown files, then chat with them. Select a numbered citation in any answer to read the
